@@ -36,6 +36,7 @@ The analysis explored potential operational issues, including missing informatio
 
 ## Dashboard
 The Power BI dashboard presents key metrics and visualizations to help monitor SLA performance and identify areas for operational improvement.
+
 <img width="605" height="338" alt="dashboard" src="https://github.com/user-attachments/assets/41e25de7-1804-4bf3-8aa8-18f6affb9481" />
 
 ## Skills Demonstrated
